@@ -2,7 +2,7 @@
 ## European
 ---
 Select a specific Asian food:
-## [greek](greek.md) 
+## [Greek](greek.md) 
 ## [Mediterranean](mediterranean.md)
 ---
 [Start Over](../home.md)
