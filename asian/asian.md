@@ -6,4 +6,4 @@ Select a specific Asian food:
 ## [Japanese](http://www.brsushi.com/)
 ## [Thai](http://glowthai.com/) 
 ---
-Start Over
+[Start Over](../home.md)
