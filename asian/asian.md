@@ -3,7 +3,7 @@
 ---
 Select a specific Asian food:
 ## [Chinese](https://www.pandabrooklyn.com/) 
-## [Japanese](Sushi http://www.brsushi.com/)
+## [Japanese](../japanese.md)
 ## [Thai](http://glowthai.com/)
 ---
 [Start Over](../home.md)
